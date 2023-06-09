@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.80a23eaf.css",
+    "main.js": "/portfolio/static/js/main.1915c5aa.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Resume_Victor Anokwuru.pdf": "/portfolio/static/media/Resume_Victor Anokwuru.c438968c5c1ec7ff9fed.pdf",
+    "static/media/webshop.PNG": "/portfolio/static/media/webshop.2a042ebad9a9dbcb1f02.PNG",
+    "static/media/CountdownTimer.PNG": "/portfolio/static/media/CountdownTimer.f91e2420337a9ec1103e.PNG",
+    "static/media/DrumMachine.PNG": "/portfolio/static/media/DrumMachine.12bf7cefb1cf90e2fe0e.PNG",
+    "static/media/Victor_Pic.jpg": "/portfolio/static/media/Victor_Pic.50e89bce4014e79c0f8d.jpg",
+    "static/media/RandomQuoteMachine.PNG": "/portfolio/static/media/RandomQuoteMachine.f682ee877f3578d05269.PNG",
+    "static/media/JavaScriptCalculator.PNG": "/portfolio/static/media/JavaScriptCalculator.0ecbc22cc5b96a903eee.PNG",
+    "index.html": "/portfolio/index.html",
+    "main.80a23eaf.css.map": "/portfolio/static/css/main.80a23eaf.css.map",
+    "main.1915c5aa.js.map": "/portfolio/static/js/main.1915c5aa.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80a23eaf.css",
+    "static/js/main.1915c5aa.js"
+  ]
+}
